@@ -11,6 +11,7 @@ namespace TestExample
     {
         public String username;
         public String password;
+        public String sample;
  
         public void InvalidUser1()
         {
